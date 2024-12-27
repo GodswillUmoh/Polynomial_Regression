@@ -45,7 +45,7 @@ n$ : Features derived from the original
 x.
 > ϵ: Error term.
 ---
-## Why is is still call Linear?
+## Why is it still call Linear?
 > It is because of the coefficient present in the formula. Polynomial regression is called linear regression because, despite including non-linear terms (e.g., 
 𝑥2,𝑥3), the model is linear in the parameters (coefficients). The relationship between the coefficients (𝛽0,𝛽1,𝛽2,…) and the outcome (𝑦) is linear.
 > The non-linearity comes from the input features (e.g.,𝑥2,𝑥3), but the model still solves for the coefficients using linear techniques.
